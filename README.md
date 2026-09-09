@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Add your banner later as assets/banner.png -->
-  <img src="assets/banner.png" alt="Physics, scientific computing and machine learning" width="100%">
+  <img src="assets/banner.png" alt="Coupled Duffing oscillators" width="100%">
 </p>
 
 # Computational Physics, Dynamical Systems & Scientific ML
