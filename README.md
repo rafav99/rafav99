@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Coupled Duffing oscillators" width="100%">
-</p>
-
 # Computational Physics, Dynamical Systems & Scientific ML
 
 I work on problems at the intersection of **physics, scientific computing and machine learning**.
