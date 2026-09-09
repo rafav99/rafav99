@@ -1,6 +1,6 @@
-# Hi, I'm Rafael 👋
+# Computational Physics, Dynamical Systems & Scientific ML
 
-I work on problems at the intersection of **physics, scientific computing and machine learning**.
+Working on problems at the intersection of **physics, scientific computing and machine learning**.
 
 My current work focuses on **dynamical systems, inverse problems and deep learning for physical systems**, including the development of computational environments and benchmarks for evaluating learning-based methods on scientific problems.
 
