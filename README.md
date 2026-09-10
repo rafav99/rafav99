@@ -48,6 +48,21 @@ The measured radius-time relation is then compared with **Taylor-Sedov similarit
   <a href="https://github.com/rafav99/Trinity-Blast-Wave"><b>Explore the project →</b></a>
 </p>
 
+### 🌌 Cosmic Microwave Background Anisotropy Analysis
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafav99/CMB-Anisotropy-Analysis/main/assets/01_hot_cold_regions.png"
+       alt="Hot and cold regions detected in a CMB anisotropy map"
+       width="90%">
+</p>
+
+Analysis of Cosmic Microwave Background anisotropies using **statistical segmentation, connected-component analysis and Fourier-domain spatial analysis**.
+
+The project characterizes hot and cold structures in real space and uses a **2D Fourier power spectrum and radial spectral analysis** to identify a characteristic angular scale in the map.
+
+<p align="center">
+  <a href="https://github.com/rafav99/CMB-Anisotropy-Analysis"><b>Explore the project →</b></a>
+</p>
 ---
 
 ## Research directions
