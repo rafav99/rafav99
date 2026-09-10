@@ -51,7 +51,7 @@ The measured radius-time relation is then compared with **Taylor-Sedov similarit
 ### 🌌 Cosmic Microwave Background Anisotropy Analysis
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafav99/CMB-Anisotropy-Analysis/main/assets/01_hot_cold_regions.png"
+  <img src="https://raw.githubusercontent.com/rafav99/CMB-Anisotropy/main/assets/01_hot_cold_regions.png"
        alt="Hot and cold regions detected in a CMB anisotropy map"
        width="90%">
 </p>
@@ -61,7 +61,7 @@ Analysis of Cosmic Microwave Background anisotropies using **statistical segment
 The project characterizes hot and cold structures in real space and uses a **2D Fourier power spectrum and radial spectral analysis** to identify a characteristic angular scale in the map.
 
 <p align="center">
-  <a href="https://github.com/rafav99/CMB-Anisotropy-Analysis"><b>Explore the project →</b></a>
+  <a href="https://github.com/rafav99/CMB-Anisotropy"><b>Explore the project →</b></a>
 </p>
 ---
 
