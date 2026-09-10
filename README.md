@@ -1,52 +1,55 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Coupled nonlinear dynamical system" width="100%">
+</p>
+
 # Computational Physics, Dynamical Systems & Scientific ML
 
 I work on problems at the intersection of **physics, scientific computing and machine learning**.
 
-My current work focuses on **dynamical systems, inverse problems and deep learning for physical systems**, including the development of computational environments and benchmarks for evaluating learning-based methods on scientific problems.
-
-I am especially interested in **numerical simulation, nonlinear dynamics, physical modelling and data-driven approaches**.
+My current projects focus on **dynamical systems, inverse problems and data-driven methods for physical systems**, with a strong interest in numerical simulation, nonlinear dynamics and scientific image analysis.
 
 ---
 
 ## Current focus
 
 - **Dynamical systems** and nonlinear physical models
-- **Inverse problems** combining physical structure with deep learning
+- **Inverse problems** and deep learning for physical systems
 - **Scientific ML benchmarks** and evaluation environments
 - **Numerical simulation** and computational physics
 - **Computer vision** and scientific image processing
 
 ---
 
-## Featured project
+## Featured projects
 
 ### 🌀 Hurricane Dorian Motion Analysis
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rafav99/Dorian-Hurricane/main/assets/tracking.gif"
        alt="Hurricane Dorian eye tracking, segmentation and motion analysis"
-       width="92%">
+       width="90%">
 </p>
 
-A MATLAB image-processing pipeline for analyzing a sequence of satellite frames of Hurricane Dorian.
-
-The project combines:
-
-- HSV-based hurricane segmentation
-- Eye detection and temporal tracking
-- Storm-area estimation
-- Translation-speed estimation
-- RGB-based angular motion estimation
-- Scientific visualization of the resulting dynamics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafav99/Dorian-Hurricane/main/assets/rotation.gif"
-       alt="Hurricane Dorian RGB annular rotation estimation"
-       width="82%">
-</p>
+Satellite-image analysis of Hurricane Dorian using MATLAB, combining **HSV segmentation, eye tracking, storm-area estimation, translational motion and RGB-based angular motion estimation**.
 
 <p align="center">
   <a href="https://github.com/rafav99/Dorian-Hurricane"><b>Explore the project →</b></a>
+</p>
+
+### 💥 Trinity Blast-Wave Analysis
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafav99/Trinity-Blast-Wave/main/assets/blast_radius_tracking.gif"
+       alt="Trinity blast-wave radius estimation"
+       width="90%">
+</p>
+
+Scientific image analysis of the Trinity explosion using **spatial calibration, segmentation, least-squares circle fitting and radial-intensity profiles** to recover the blast radius from historical photographs.
+
+The measured radius-time relation is then compared with **Taylor-Sedov similarity scaling**, recovering an experimental power-law exponent close to the theoretical value of 2/5 and an energy estimate from the fitted expansion.
+
+<p align="center">
+  <a href="https://github.com/rafav99/Trinity-Blast-Wave"><b>Explore the project →</b></a>
 </p>
 
 ---
@@ -70,8 +73,6 @@ Some directions I want to keep exploring include:
 
 ## Broader interests
 
-Beyond my current projects, I am especially interested in:
-
 - **Photonics** and electromagnetic modelling
 - **Electronics** and physical systems
 - **Space science** and aerospace applications
@@ -94,30 +95,6 @@ Beyond my current projects, I am especially interested in:
 
 ---
 
-## More projects coming
+## In progress
 
-I am currently organizing and expanding this portfolio with additional projects in:
-
-- scientific image processing
-- computational physics
-- nonlinear dynamics
-- inverse problems
-- machine learning for physical systems
-
-<!--
-Future project layout example:
-
-### 🌌 CMB Anisotropy Analysis
-<img src="assets/cmb-preview.png" width="80%">
-
-Short project description.
-
-[Explore the project →](PROJECT_LINK)
-
-### ⚡ Dynamical Systems / Scientific ML
-<img src="assets/dynamics-preview.png" width="80%">
-
-Short project description.
-
-[Explore the project →](PROJECT_LINK)
--->
+I am continuing to expand this portfolio with projects in **scientific image processing, computational physics, nonlinear dynamics, inverse problems and machine learning for physical systems**.
