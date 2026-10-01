@@ -18,7 +18,7 @@ My current projects focus on **dynamical systems, inverse problems and data-driv
 
 ## Featured projects
 
-### Oscillator Network Inference
+### 🕸️ Oscillator Network Inference
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rafav99/Nonlinear-Oscillator-Coupling-Inference/main/visualization/figures/oscillator_dynamics.gif"
