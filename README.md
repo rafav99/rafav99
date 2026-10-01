@@ -18,6 +18,22 @@ My current projects focus on **dynamical systems, inverse problems and data-driv
 
 ## Featured projects
 
+### Oscillator Network Inference
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafav99/Nonlinear-Oscillator-Coupling-Inference/main/visualization/figures/oscillator_dynamics.gif"
+       alt="Nonlinear oscillator dynamics and latent coupling network"
+       width="90%">
+</p>
+
+Inverse reconstruction of a hidden interaction network from **short, noisy trajectories of nonlinear stochastic oscillators**. The project combines a physics-based simulation pipeline with **temporal convolution, pairwise representations, edge attention and a four-model ensemble** to infer the 28 unknown couplings of an eight-node dynamical system.
+
+The benchmark includes heterogeneous Duffing, Van der Pol and pendulum-like dynamics, coloured stochastic forcing and a confounded sensor model with low-pass response, cross-talk, gain, drift and observation noise.
+
+<p align="center">
+  <a href="https://github.com/rafav99/Nonlinear-Oscillator-Coupling-Inference"><b>Explore the project →</b></a>
+</p>
+
 ### 🌀 Hurricane Dorian Motion Analysis
 
 <p align="center">
